@@ -1,0 +1,14 @@
+layout_spectrum: 0.4464763714931905
+typography_spectrum: 0.9607910038903356
+color:
+  brandStrength: 0.07478827890008688
+  lightness: 0.6076822362374514
+  saturation: 0.5139539979863912
+  rhythmicContrast: 0.6231798601802438
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: redlipmedia
