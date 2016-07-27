@@ -12,3 +12,7 @@ color:
     - '#D40D12'
     - '#FF1D23'
 name: redlipmedia
+navigation:
+  - url: mannfriday.com
+    name: Cool Tunes
+    type: external
